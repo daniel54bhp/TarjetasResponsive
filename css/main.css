@@ -2,7 +2,9 @@
 html {
   font-size: 15px;
 }
-
+*{
+  padding:0;
+}
 body {
   font-size: 1em;
   font-family: "Lexend Deca", sans-serif;
